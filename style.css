@@ -1,0 +1,26 @@
+.container {
+  width: 600px;
+  height: 50px;
+  border: solid 2px #4285f4;
+  padding: 20px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#hatteres {
+  background-color: #ff6347;
+}
+
+.kek {
+  width: 50px;
+  height: 50px;
+  background-color: #4285f4;
+}
+
+.lila {
+  width: 50px;
+  height: 50px;
+  background-color: #643579;
+}
